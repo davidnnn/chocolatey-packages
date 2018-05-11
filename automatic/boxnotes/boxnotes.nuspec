@@ -38,7 +38,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <authors>Box</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://www.box.com/</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/davidnnn/chocolatey-packages/commit/icons/boxnotes.ico</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/davidnnn/chocolatey-packages/61b5750c4c0690f6cb17132cab5497bf17bc26d7/icons/boxnotes.ico</iconUrl>
     <copyright>Copyright 208 Box</copyright>
     <!-- If there is a license Url available, it is is required for the community feed -->
     <licenseUrl>https://www.box.com/en-gb/legal/termsofservice</licenseUrl>
