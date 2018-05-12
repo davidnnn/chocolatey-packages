@@ -10,7 +10,7 @@ $packageArgs = @{
   softwareName  = 'boxnotes*'
   checksum      = '2435b4ad40d447161b5ee1b4e76103345f0d8d4737abbdc0ffca74533bb5d771'
   checksumType  = 'sha256'
-  silentArgs   = '/install /quiet /norestart'
+  silentArgs   = '--silent'
   validExitCodes= @(0)
 }
 
