@@ -1,7 +1,7 @@
 # Chocolatey Packages
 
 [![](https://ci.appveyor.com/api/projects/status/github/davidnnn/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/davidnnn/chocolatey-packages)
-[Update status](https://gist.github.com/davidnnn/YOUR_GIST_ID)
+[Update status](https://gist.github.com/davidnnn/5bcd7c5a1cf79a92176e2b4a9326314c)
 
 ### Folder Structure
 
